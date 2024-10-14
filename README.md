@@ -1,6 +1,6 @@
 # [qemuTermux](https://github.com/blanckth/qemuTermux/)
 Use QEMU in Termux as a full virtual machine and Deploy Any architecture OS and img and run without ROOT.
-> ### Authur : **`Salar Muhammadi`**.
+> ### Authur : **`android mod`**.
 ###### DOWNLOAD [Termux App](https://f-droid.org/en/packages/com.termux/) and install it , Run and Copy this command and run :
 ```bash
 apt-get update -y && \
